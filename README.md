@@ -1,5 +1,5 @@
 ## Simple blog like implementation using gRPC
- **Description:** Client-server based implemention using gRPC's protocol buffers with performing CRUD operations on database.
+ **Description:** "Implemented a simpe client-server architecture using gRPC with Protocol Buffers for efficient communication. Developed CRUD operations to interact with the database, ensuring structured data handling and optimized performance.
  
  **Tech Stack:**
   - Go
